@@ -1,5 +1,6 @@
+## name :- hemanth yadav
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 11-04-2025
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
@@ -22,6 +23,8 @@ Execute Django admin and create details for 10 books
 ## PROGRAM
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/4f978154-8a0c-4d70-b6f5-0a42a22af16f)
+
 
 Include your output imagr
 
