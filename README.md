@@ -1,6 +1,6 @@
-## name :- hemanth yadav
+## name :- yagnesh kumar reddy L
 # Ex02 Django ORM Web Application
-## Date: 11-04-2025
+## Date: 28-08-2025
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
